@@ -1,0 +1,365 @@
+/*!CK:3981080402!*//*1385468671,173213717*/
+
+.devsitePage .devAppTitle{font-size:18px}
+.devsitePage #developerAppNav ul{padding-left:0}
+.devsitePage .developerAppDashLeft{width:188px;float:left}
+.devsitePage .developerAppDashRight{width:752px;float:right}
+.devsitePage .developerAppDetailsLeft{width:188px;float:left}
+.devsitePage .developerAppDetailsRight{width:752px;float:right}
+.devsitePage .developerAppDetailsRightNoApps{width:100%}
+.devsitePage .developerAppDetailsPromote{float:right}
+.devsitePage .body #developerAppNav ul,
+.devsitePage .body #developerAppNavigation ul{list-style-type:none}
+.devsitePage #DeveloperAppDashHeader{min-height:32px !important}
+.devsitePage .dashboardHeader .dashboardTitle{font-size:18px;font-weight:bold;width:420px}
+.devsitePage .dashboardHeader .dashboardTitle a{color:#000}
+.devsitePage .dashboardHeader .appTypeahead{display:inline-block;margin:0 5px 0 0}
+.devsitePage button.dashboardButton{display:inline}
+.devsitePage .uiTypeahead ul{margin:2px 0;padding:0}
+.devsitePage .uiTypeahead .bucketed li.header{margin:0}
+.devsitePage .developerAppDashLeft .uiTypeahead{margin-bottom:10px;width:170px}
+.devsitePage .directoryStatus,
+.devsitePage span.dirPending,
+.devaitePage span.dirUnsubmitted{color:#666}
+.devsitePage .appNameTitleBar{font-size:18px}
+.devsitePage img.appLogo{max-height:40px;width:40px}
+.devsitePage span.dirApproved{color:green}
+.devsitePage span.dirDenied{color:#a00}
+.devsitePage .body h3.uiHeaderTitle,
+.devsitePage .body #developerAppDetailsContent p{font-size:11px;margin:0}
+.devsitePage .body .developerAppDetailsForm .uiGrid{width:100%
+}
+.devsitePage .body .developerAppDetailsForm .uiGrid.developerAppSummaryBanner
+tr td:first-of-type{width:75px
+}
+.devsitePage .developerAppSectionBanner td.closeButton{vertical-align:top}
+.devsitePage #developerAppDashContent .plugin .thumbnail{float:left;margin-right:10px}
+.devsitePage #developerAppDashContent .plugin .name{font-size:16px;line-height:24px;padding-top:16px}
+.devsitePage #developerAppDashContent .plugin .desc{font-size:12px}
+.devsitePage td.overviewHeaderColumn{padding:4px 10px 4px 6px;vertical-align:top;width:100px}
+.devsitePage td.headerColumn{width:190px}
+.devsitePage .developerAppMigrationsContent td.headerColumn{width:290px}
+.devsitePage #developerAppDashContent td.contentColumn{width:360px}
+.devsitePage #developerAppDashContent td.contentPane{padding:0}
+.devsitePage #developerAppDashContent #test_accounts{padding:5px}
+.devsitePage div.content_loading{background:url(/rsrc.php/v2/y9/r/jKEcVPZFk-2.gif) center no-repeat;height:400px;min-width:250px;overflow:hidden}
+.devsitePage .noApps{font-size:12px;font-weight:bold;padding:20px 0;text-align:center}
+.devsitePage #developerAppDetailsContent td.contentPane .preview_img{margin-bottom:10px}
+.devsitePage #developerAppDetailsContent td.contentPane div div:last-child
+.preview_img{margin-bottom:0}
+.devsitePage #developerAppDetailsContent td.contentPane,
+.devsitePage #developerAppDetailsContent .contentPane{width:462px}
+.devsitePage #developerAppDetailsContent .developerAppMigrationsContent td.contentPane,
+.devsitePage #developerAppDetailsContent .developerAppMigrationsContent .contentPane{width:330px}
+.devsitePage #developerAppDetailsContent .inputtext{width:460px}
+.devsitePage #developerAppDetailsContent .developerAppInlineTokenizer{width:468px}
+.devsitePage #developerAppDetailsContent .textfield_array_input_text{width:80%}
+.devsitePage #developerAppDetailsContent .shortinput .inputtext{width:140px}
+.devsitePage #developerAppDetailsContent .uiTypeahead .inputtext{width:100%}
+.devsitePage #developerAppDetailsContent .developerAppTestAccountTable td{border-left:gray;padding-left:7px}
+.devsitePage #developerAppDetailsContent .developerAppTestAccountTable .odd td{border-left:#e4e4e4}
+.devsitePage #developerAppDetailsContent .developerAppTestAccountTable .action_links{float:left}
+.devsitePage #developerAppDashContent .devAppOpenGraph{margin-bottom:0}
+.devsitePage #developerAppDashContent .devAppOpenGraph .ogColumn{padding:4px 10px 4px 6px;vertical-align:top;width:200px}
+.devsitePage #developerAppDashContent .devAppOpenGraph .ogColumn ul{list-style-type:none;margin-bottom:0;padding:0}
+.devsitePage #developerAppDashContent .devAppOpenGraph .ogColumn li{font-size:11px;line-height:18px}
+.devsitePage #developerAppDashContent .promotePlatformLink{margin-top:6px}
+.devsitePage #developerAppDashContent .devAppInsights .fbInsightsTinyStatistic{float:right}
+.devsitePage #developerAppDashContent .editSettings{text-align:center}
+.devsitePage #contentCol{background:none;padding-top:0}
+.devsitePage .developerAppDashLeft .toplevelnav a,
+.devsitePage .developerAppDashLeft .toplevelnav a:hover,
+.devsitePage .uiTypeahead li{font-size:11px}
+.devsitePage .throbber{text-align:center;vertical-align:middle}
+.devsitePage img.throbber{display:inline-block;padding-bottom:8px;visibility:hidden}
+.devsitePage .async_saving img.throbber{visibility:visible}
+.devsitePage .developerAppDashLeft .seeAllApps{margin:10px 0;text-align:center}
+.devsitePage .developerAppDashLeft .newAppButton{width:162px}
+.devsitePage #edit_button{outline:none}
+.devsitePage td.contentPane label{float:left;min-width:68px;display:block}
+.devsitePage td.contentPane label,
+.devsitePage td.contentPane input{vertical-align:top}
+.devsitePage td.contentPane input.pixelinput{margin-top:-4px}
+.devsitePage .developerAppDashRight .name,
+.devsitePage .developerAppDashRight .desc{margin-left:105px}
+.devsitePage .developerAppDashRight .thumbnail .img{border:none}
+#fbCreateAppDialog .async_saving{background:url(/rsrc.php/v2/yb/r/GsNJNwuI-UM.gif) no-repeat 0 0;height:10px;margin-left:10px;width:35px}
+#fbCreateAppDialog span.valid{color:green}
+span.failed{color:#c00;padding-right:5px}
+.fbCreateAppDialogPage .uiInterstitialLarge{width:632px}
+span.sandboxOn{color:#c00}
+span.sandboxOff{color:#0a0}
+div.listedPlatform{display:inline-block}
+.devsitePage .plugin_form{float:left;background:#efefef;margin:10px 10px 15px 0;padding:10px;border-top:solid #C1C1C1 1px;width:220px}
+.devsitePage .plugin_form dt{color:#666}
+.devsitePage .plugin_form dt a.uiTooltip{font-weight:normal;font-size:11px}
+.devsitePage .plugin_form dd{padding:5px 0 10px 0;border-bottom:solid #D0D0D0 1px;margin-bottom:5px}
+.devsitePage .plugin_form dd label{color:#000;font-weight:normal}
+.devsitePage .plugin_form .wideinputtext{width:210px}
+.devsitePage .plugin_example{float:left;width:420px;padding:10px}
+.devsitePage .dark_background{background-color:#333;padding:10px}
+.devsitePage .nofloat{float:none;width:auto;margin-left:-10px}
+.dialog_body{padding-bottom:0}
+.dialog_body .code{margin-bottom:16px}
+.dialog_body .code div{margin:5px 0}
+.dialog_body .code input, .dialog_body .code textarea{width:600px;font:12px monospace}
+.dialog_body ol .code input, .dialog_body ol .code textarea{width:575px}
+.dialog_body #snip-html5 ol, .dialog_body #snip-xfbml ol, .dialog_body #snip-url ol, .dialog_body #snip-iframe ol{padding-left:2em}
+.dialog_body #snip-html5 .uiSelectorMenu{max-height:280px}
+.dialog_body #snip-xfbml .uiSelectorMenu{max-height:380px}
+.LDialog_DeveloperPluginCode .pop_container_advanced{width:630px}
+.LDialog_DeveloperPluginCode label{margin:5px;font-size:12px}
+.appcenterSubmitTextAreaInput{height:140px;width:510px}
+.devsitePage #developerAppDetailsContent .appCenterRejectionReasons{list-style-type:square;padding-left:15px}
+.appcenterSupportedLocales .isPrimaryLocale{font-weight:bold}
+.devsitePage .body li.permBucket table.uiGrid{margin:0}
+.profileUnitShowcaseItem{float:right;position:relative;text-align:center;width:100px}
+.warning{border:1px solid #efc63f}
+.warning div{cursor:pointer;opacity:.6}
+.warning img{opacity:.6}
+.warning .warningIcon{position:absolute;right:5px;top:5px;z-index:2}
+.previewReferralDialogLink{display:block;text-align:right;width:670px}
+.devsitePage .body table.aggregationPreviews th, .devsitePage .body table.aggregationPreviews td{padding:0 12px 0 0}
+._57yz{border:1px solid #d3d6db;-webkit-border-radius:4px;color:#4e5665;font:14px/18px 'helvetica neue',helvetica,arial,'lucida grande',sans-serif;line-height:20px;padding-left:44px}
+div._5ts1{margin-bottom:24px}
+div._5ts2{margin-bottom:0}
+._57y-{background:#fff;-webkit-border-radius:0 2px 2px 0;padding:14px}
+._57yz ._57y- p{margin-bottom:1em;margin-top:0}
+._57yz ._57y- p:first-child{margin-top:0}
+._57yz ._57y- p:last-child{margin-bottom:0}
+._57y_{background:#da2929 url(/rsrc.php/v2/yl/r/2OH9fLl_WXQ.png) no-repeat 13px 13px;background-size:18px 18px}
+._5s-k{background:#46a800 url(/rsrc.php/v2/yf/r/sS5OlTQktbs.png) no-repeat 13px 13px;background-size:18px 18px;border:1px solid #e9eaed}
+._57z0{background:#e9eaed url(/rsrc.php/v2/yI/r/QSbpwdQidPH.png) no-repeat 13px 13px;background-size:18px 18px}
+._57z1{background:#5890ff url(/rsrc.php/v2/y4/r/nS_LaeG3pEH.png) no-repeat 13px 13px;background-size:18px 18px;border:1px solid #5890ff}
+._57yz li{margin-left:14px}
+._57y- > div{margin-bottom:12px}
+._57y- > div:last-child{margin-bottom:0}
+.devsitePage .body ._604 h1, .devsitePage .body ._604 h2, .devsitePage .body ._604 h3, .devsitePage .body ._604 h4{font-weight:normal;font-family:'Freight Sans Bold', 'lucida grande',tahoma,verdana,arial,sans-serif;text-rendering:optimizelegibility}
+.devsitePage .body ._604 hr{clear:both}
+.devsitePage .body ._604 img{margin-bottom:20px;margin-top:20px;max-width:732px;vertical-align:top}
+._57v1{width:100%}
+._57v1 tbody{display:block}
+._588p ._57v1 td{color:#4e5665;font-family:'helvetica neue',helvetica,arial,'lucida grande',sans-serif;font-size:14px;line-height:20px}
+._57v1 ._57v2{-webkit-box-sizing:border-box;padding:0 12px}
+._57v1 tr ._57v2{padding-bottom:12px}
+._57v1 tr:last-child ._57v2{padding-bottom:0}
+._57v1 tr td:first-child{padding-left:0}
+._57v1 tr td:last-child{padding-right:0}
+._57v1.uiGrid ._57v2.hRght{text-align:right}
+._57v1.uiGrid ._57v2.hLeft{text-align:left}
+._57v1.uiGrid ._57v2.hCent{text-align:center}
+._57v1.uiGrid ._57v2.vTop{vertical-align:top}
+._57v1.uiGrid ._57v2.vMid{vertical-align:middle}
+._57v1.uiGrid ._57v2.vBot{vertical-align:bottom}
+._5e8m{margin-bottom:12px}
+._5e8n{background:#f7f7f7;font:bold 12pt/16pt 'helvetica neue',helvetica,arial,'lucida grande',sans-serif}
+._57-c table{border:1px solid #cececc;-webkit-border-radius:3px;margin-bottom:12px}
+._57-c tr th:first-child{-webkit-border-top-left-radius:3px}
+._57-c tr th:last-child{-webkit-border-top-right-radius:3px}
+._57-c tr:last-child td:first-child{-webkit-border-bottom-left-radius:3px}
+._57-c tr:last-child td:last-child{-webkit-border-bottom-right-radius:3px}
+._5e8f{-webkit-box-sizing:border-box;display:inline-block;width:50%}
+._5e8f:nth-child(odd){padding-right:4px}
+._5e8f:nth-child(even){padding-left:4px}
+._5e8g{font:14px/20px 'helvetica neue',helvetica,arial,'lucida grande',sans-serif;margin-bottom:4px}
+._5e8f a{color:#4e5665}
+._5e8f a:hover{cursor:default;text-decoration:none}
+._5e8g{width:100%}
+._5e8f input{-webkit-box-sizing:border-box;width:100%}
+._5e8h{width:100%}
+._5e8f .uiPopover{width:100%}
+._5e8f ._55pe{text-align:left;width:95%}
+._5e8f ._5e8i{font:14px/20px 'helvetica neue',helvetica,arial,'lucida grande',sans-serif}
+._5e8f ._5e8j{font-size:18px}
+._5e8k a{color:#fff}
+._5k9x tbody td, ._5k9x thead th{color:#4e5665;font-size:14px;vertical-align:top}
+table._5o3i tr:nth-child(odd) > td, table tbody._5m37 > tr:nth-child(even) > td, table tbody._5m37 > tr:nth-child(odd) > td{background-color:transparent}
+table._5k9x > tbody > tr._5m29 > td{background-color:#f6f7f8}
+._5k9x thead th{padding:8px 12px}
+._5k9x tbody td{padding:12px}
+._5k9x tbody td p{margin:0}
+._5k9x td._5md4{text-decoration:line-through}
+table._5k9x tbody tr:first-child th{background:none;border-top:solid 1px #cdced0;padding:6px 12px}
+tr._5m27 > td:first-child{background-image:url(/rsrc.php/v2/yO/r/MTRxskL5QHd.png);background-position:top 15px right 12px;background-repeat:no-repeat;cursor:pointer}
+tr._5m27.open > td:first-child{background-image:url(/rsrc.php/v2/yI/r/ePu025ro4Ae.png)}
+table tbody._5o3i tr:nth-child(even) td{background-color:#f3f6fb}
+._5k9x tbody .devsiteReferenceTableRowLevel1{padding-left:24px}
+._5k9x tbody .devsiteReferenceTableRowLevel2{padding-left:36px}
+._5k9x tbody .devsiteReferenceTableRowLevel3{padding-left:48px}
+._5k9x tbody .devsiteReferenceTableRowLevel4{padding-left:60px}
+._57zd{background-position:center center;background-repeat:no-repeat;-webkit-border-top-right-radius:3px;font-family:'helvetica neue',helvetica,arial,'lucida grande',sans-serif;height:350px;margin:-25px -20px 0 -21px;padding:25px 20px 0 21px;text-align:center}
+._5m9u{min-height:350px}
+._588p ._57zd{-webkit-border-radius:2px;-webkit-box-sizing:border-box;margin:-32px;padding:32px}
+._57zd ._57ze{color:#4e5665;font-size:32px;font-weight:normal;line-height:38px;padding:0}
+._57zd ._57zf{color:#4e5665;font-size:24px;line-height:32px;margin-top:0;padding:0 0 32px 0}
+._5ia0{margin:0 0 12px}
+._57zg ._57ze{color:#fff}
+._57zg ._57zf{color:#fff}
+._5ia1{background-position:top right;height:auto;overflow:auto}
+._5ia1 ._57ze, ._5ia1 ._57zf, ._5ia1 ._5ia0, ._5ia1 ._5ia2{-webkit-box-sizing:border-box;clear:both;padding-right:24px;text-align:left;width:50%}
+._5ia1 ._5ia2 table{margin:0}
+._5ia1 ._5ia2 table tbody tr{display:block;padding:0 0 12px}
+._5ia1 ._5ia2 table tbody tr:last-child{padding-bottom:0}
+._5ia1 ._5ia2 table tbody tr td{font-family:'helvetica neue',helvetica,arial,'lucida grande',sans-serif;padding:0;vertical-align:middle}
+._5ia1 ._5ia2 table td p{color:#4e5665;font-size:14px;font-weight:normal;line-height:20px}
+._5ia1 ._5ia2 table td p:first-child{margin-top:0}
+._5ia1 ._5ia2 table td p:last-child{margin-bottom:0}
+._5ia1 ._5ia2 .uiGrid img{margin:0}
+._588p ._5ia1 ._5ia2 .uiGrid img{margin-bottom:-5px}
+._5ia1 ._5ia2 table tbody tr td:first-child{padding-right:12px}
+._5ia1 ._5ia2 table tbody tr td p a{color:#627aad;margin:0}
+._5ia1 ._57ze{font-size:28px;line-height:32px}
+._5ia1 ._57zf{font-size:18px;line-height:24px;padding-top:12px}
+.devsiteWiki{font-family:'lucida grande',tahoma,verdana,arial,sans-serif;font-size:11px;color:#333;margin:0;font-size:11px}
+.devsiteWiki a:hover{text-decoration:underline}
+.devsiteWiki a.uiButton:hover,
+.devsiteWiki a.itemAnchor:hover{text-decoration:none}
+.devsiteWiki img{border:0}
+.devsiteWiki table{border:0;margin:0;border-collapse:collapse;border-spacing:0}
+.devsiteWiki table td,
+.devsiteWiki table th{border:0;padding:0;text-align:left;vertical-align:top}
+.devsiteWiki table th{font-weight:bold}
+.devsiteWiki table.devsiteUiDataTable{border-bottom:solid 1px #a6a6a6;border-collapse:separate}
+.devsiteWiki table.devsiteUiDataTable th{border-bottom:solid 1px #888;border-left:solid 1px #999;border-right:none;border-top:solid 1px #999;vertical-align:middle}
+.devsiteWiki table.devsiteUiDataTable .lastColumn{border-right:solid 1px #999}
+.devsiteWiki table.devsiteUiDataTable td{border-left:solid 1px #fbfbfb;padding:6px 7px}
+.devsiteWiki h1,
+.devsiteWiki h2,
+.devsiteWiki h3,
+.devsiteWiki h4{margin:0;padding:0;border:0}
+.devsiteWiki .header,
+.devsiteWiki .body,
+.devsiteWiki .body p,
+.devsiteWiki .body ul,
+.devsiteWiki .body ol,
+.devsiteWiki .body li,
+.devsiteWiki .body th,
+.devsiteWiki .body th,
+.devsiteWiki .body td,
+.devsiteWiki .body .uiLinkButton input{font-size:12px}
+.devsiteWiki .body pre,
+.devsiteWiki .body p,
+.devsiteWiki .body li,
+.devsiteWiki .body dt,
+.devsiteWiki .body dd,
+.devsiteWiki .refindex .page,
+.devsiteWiki .body textarea,
+.devsiteWiki .body td{line-height:18px}
+.devsiteWiki dl,
+.devsiteWiki dt,
+.devsiteWiki dd{margin:0}
+.devsiteWiki dd,
+.devsiteWiki .refindex .page{margin-bottom:10px}
+.devsiteWiki dd p,
+.devsiteWiki .refindex .page .snippet p{margin:0}
+.devsiteWiki dt,
+.devsiteWiki .refindex .page .title{font-weight:bold}
+.devsiteWiki dt a.private,
+.devsiteWiki .refindex .page .title a.private,
+.devsiteWiki .bodyMenu li a.private{background:url(/rsrc.php/v2/y9/r/uADs2cgkzVe.png) no-repeat left center;padding-left:13px}
+.devsiteWiki .metanotice{background:#fff9d7;border:1px solid #e2c822;padding:1em;margin:1em}
+.devsiteWiki textarea{resize:none}
+.clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden}
+.clearfix{display:block;zoom:1}
+.devsiteWiki .titleblock{margin:20px 0}
+.devsiteWiki .titleblock h1{font-size:24px;font-weight:normal;padding:0}
+.devsiteWiki .titleblock h3{color:#797c80;font-size:16px;font-weight:normal;line-height:22px;margin:0 0 3px 0;padding:0}
+.devsiteWiki .titleblock div.stats{margin-top:20px}
+.devsiteWiki .titleblock .statsbox{background:#eee;float:right;padding:20px 20px 10px 20px;width:200px}
+.devsiteWiki .titleblock div.stats .statsbox li{color:#333;font-size:11px;line-height:14px}
+.devsiteWiki .titleblock div.stats ul{color:#627aad;list-style-type:square;padding:0 0 0 17px}
+.devsiteWiki .titleblock div.stats li{font-size:14px;line-height:22px;margin-bottom:5px}
+.devsiteWiki .titleblock div.stats li span{color:#333}
+.devsiteWiki .titleblock img{float:left;height:65px;margin:0 10px 0 0}
+.devsiteWiki p.intro{color:#797c80;font-size:14px;line-height:21px;margin-bottom:20px}
+.devsiteWiki p.intro b{color:#444}
+.devsiteWiki .contentblock{clear:right;float:left;margin:1.5em 0;position:relative;width:100%}
+.devsiteWiki hr{clear:right;margin:20px 0}
+.devsiteWiki .contentblock h2{margin:0 0 15px 0;padding:0}
+.devsiteWiki .contentblock h2.mbn{margin:0}
+.devsiteWiki .contentblock h3{color:#999;font-size:13px;font-weight:normal;margin:0 0 20px 0}
+.devsiteWiki .contentblock h4{color:#000;font-size:14px;font-weight:bold;line-height:18px;margin-bottom:4px}
+.devsiteWiki .contentblock p{color:#333;font-size:12px;line-height:18px;margin-bottom:18px}
+.devsiteWiki .contentblock a.more{background:url(/rsrc.php/v2/yb/r/ocFE5OLH1Dj.png) no-repeat 100% 3px;padding-right:10px}
+.devsiteWiki .contentblock img.right{float:right;margin:0 0 10px 20px}
+.devsiteWiki .contentblock img.left{display:table-cell;float:left;margin:0 20px 10px 0}
+.devsiteWiki .contentblock img.bleed{margin-right:-16px}
+.devsiteWiki .contentblock img.bordered{border:1px solid #ddd;margin-bottom:10px;padding:5px}
+.devsiteWiki .contentblock ol{margin:10px 0;padding:0 0 0 23px}
+.devsiteWiki .contentblock ol li{margin-bottom:10px}
+.devsiteWiki .fleft{float:left;width:357px}
+.devsiteWiki .fright{float:right;width:357px}
+.devsiteWiki .fleft ul,
+.devsiteWiki .fright ul{list-style-type:square;margin:0;padding:0 0 0 20px}
+.devsiteWiki .fleft ul li,
+.devsiteWiki .fright ul li{margin:0 0 10px 0}
+.devsiteWiki .fcol{float:left;width:231px}
+.devsiteWiki .poq{background:#f1f2f9;margin-bottom:20px;margin-top:-20px;padding:20px}
+.devsiteWiki .poq p{color:#666}
+.devsiteWiki .poq p.small{color:#999;font-size:11px;margin:0}
+.devsiteWiki .poq .credit img.left{margin-right:10px}
+.devsiteWiki .poq.right{float:right;margin-left:20px;width:280px}
+.devsiteWiki .poq.left{float:left;margin-right:20px;width:280px}
+.devsiteWiki .pagebottom{border-top:1px solid #ddd;clear:both;height:25px;padding-top:20px}
+.devsiteWiki .pagebottom a.right{float:right}
+.devsiteWiki .pagebottom a.left{float:left}
+.devsiteWiki .thumbnail{float:left;margin-right:10px}
+.devsiteWiki .thumbnail .img{border:1px solid #ccc}
+.devsiteWiki .plugin .name, .devsiteWiki .plugin .desc{margin-left:143px}
+.devsiteWiki .plugin .name{font-size:16px;line-height:24px}
+.devsiteWiki .timestamp{color:#666;font-size:11px}
+.devsiteWiki .clearcols{clear:both;display:block;height:0;overflow:hidden;visibility:hidden;width:0}
+.devsiteWiki #priority-support-box{float:right}
+.devsitePage #navsubsectionpages{list-style-type:none;margin-top:20px;padding:0}
+.devsitePage .toplevelnav.hidden_elem + #navsubsectionpages,
+.devsitePage .toplevelnav.hidden_elem + #navsubsectionpages > li:first-child h5{margin-top:0}
+.devsitePage #navsubsectionpages h5{color:#777;font-size:11px;margin:25px 0 10px 10px}
+.devsitePage #navsubsectionpages ul{list-style-type:none;margin-left:10px;padding:0}
+.devsitePage #navsubsectionpages li{border:0;font-size:11px;padding:1px 0;line-height:18px}
+.devsitePage #navsubsectionpages li a{padding:0}
+.devsitePage .bodyText{width:732px;float:right}
+.devsitePage .body .bodyMenu li a.private.selected{background-image:url(/rsrc.php/v2/yE/r/JQgQHls27pw.png),
+url(/rsrc.php/v2/y9/r/uADs2cgkzVe.png);background-position:160px center, left center;background-repeat:no-repeat, no-repeat}
+.devsitePage .body .bodyMenu li a.private{margin-left:5px}
+.devsitePage .body .bodyMenu{float:left;margin-left:-20px;overflow:hidden;padding:0 20px;width:166px}
+.devsitePage .body .bodyMenu.fixed{position:fixed}
+.devsitePage .body .bodyMenu.fixedScrolling{bottom:0}
+.devsitePage .body .bodyMenu .title{color:#666;font-size:24px;font-weight:normal;line-height:28px;margin:0;padding:0}
+.devsitePage .body .bodyMenu ul{list-style-type:none;padding:0;margin:0;margin-bottom:0}
+.devsitePage .body .bodyMenu li{margin:0}
+.devsitePage .body .bodyMenu h4,
+.devsitePage .body .bodyMenu li a{padding:6px 6px 6px 10px}
+.devsitePage .body .bodyMenu h4{font-size:16px;font-weight:normal;color:#666;padding-top:0;padding-bottom:0;margin-bottom:8px}
+.devsitePage .body .bodyMenu li a{display:block}
+.devsitePage .body .bodyMenu li a.selected{color:#333;font-weight:bold}
+.devsitePage .toplevelnav .withsubsections > .selected{margin-right:20px;padding-left:30px}
+.devsitePage .body .bodyMenu li ul.subsections li a.selected{background-image:none}
+._4l2{background-color:#ffebe8}
+._4l3 pre.code > code{color:#006000;font-family:monospace;font-size:13px}
+._4l3 pre.code{background:#f2f2f2;border:1px solid #d8dfea;border-left-width:3px;margin:10px 0 20px;padding-top:7px;padding-bottom:7px;padding-left:10px;overflow:auto}
+._4l1{float:right}
+._4kw{padding-top:8px;margin-top:8px;margin-bottom:8px}
+.devsitePage .body.reference hr{border:0;background-color:#d2d2d2;height:1px;margin:0;margin-top:40px}
+.devsitePage .body.reference h2{font-weight:normal;color:#666;font-size:16px;margin-bottom:16px}
+.devsitePage .body div.fql_example{margin-bottom:1em}
+.devsitePage .bodyMenu .toplevelnav ul{list-style-type:none;margin:0;padding:0}
+.devsitePage .bodyMenu .toplevelnav ul.subsections{margin:0;padding:0}
+.devsitePage .bodyMenu .toplevelnav li{border-bottom:1px solid #e5e5e5;line-height:18px;font-size:12px}
+.devsitePage .bodyMenu .toplevelnav li.active.withsubsections{background:#f2f7fc;border-top:1px solid #d2dee5;border-bottom:1px solid #d2dee5;margin:0 -20px;margin-top:-1px;padding-bottom:5px}
+.devsitePage .bodyMenu .toplevelnav li:first-child,
+.devsitePage .developerAppDashLeft .bodyMenu .toplevelnav
+li.active:first-child{border-top:1px solid #e5e5e5}
+.devsitePage .bodyMenu .toplevelnav li.active:first-child{border-top:2px solid #d2dee5}
+.devsitePage .bodyMenu .toplevelnav ul.subsections li{border:0;padding:0 0 0 45px}
+.devsitePage .bodyMenu .toplevelnav ul.subsections li a{color:#333;font-size:12px;padding:3px 6px}
+.devsitePage .bodyMenu .toplevelnav ul.subsections li a.selected{overflow:auto;white-space:normal}
+.devsitePage .bodyMenu .toplevelnav ul.subsections ul{padding:3px 0}
+.devsitePage .bodyMenu .toplevelnav ul.subsections ul li{padding-left:22px}
+.devsitePage .bodyMenu .toplevelnav ul.subsections ul li a{font-size:11px}
+.devsitePage .bodyMenu .toplevelnav li a:hover{color:#333;text-decoration:none}
+.devsitePage .bodyMenu .toplevelnav li ul.subsections li a:hover{background-image:none}
+.devsitePage .bodyMenu .toplevelnav ul li img.imgWrap{float:left;margin:6px 0 0 5px}
+.devsitePage .bodyMenu .toplevelnav ul li a.aWrap{display:inline-block;width:128px}
+
+#bootloader_pVHN_ { height: 42px; }
+.bootloader_pVHN_ { display:block !important; }
